@@ -3,10 +3,10 @@
    <head>
       <meta charset="utf=8>
       </head>
-                     <body>
-My first reading was <a href="https://medium.com/@sts_news/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29">“Design Thinking is Kind of Like Syphilis — It’s Contagious and Rots Your Brains”</a>
+          <body>
+                     <a href="https://medium.com/@sts_news/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29">“Design Thinking is Kind of Like Syphilis — It’s Contagious and Rots Your Brains”</a>
 
-I simply started with this because this article is the first on the summer reading list of the course I'll start in September. 
+Reading this article was the 3rd on my task list after paying the course enrolment fee and writing my first blog entry here. I simply started with this reading because this article is the first on the summer reading list of the course I'll start in September. I thought it'll be a nice way to dive into my studies. Turned out it was a fantastic choice!
 
 It discusses the origins and the downsides of adding sugar coating to the term 'design thinking', and it critics the approaches that sell DT as the magic pill for every problem, especially around education. 
 The reason is that in reality, not every popular product is successful, and not every solution is an innovation, just because one used the DT principles to get there. 
