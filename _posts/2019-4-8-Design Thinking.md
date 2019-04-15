@@ -1,10 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="en">
-   <head>
-      <meta charset="utf=8>
-      </head>
-          <body>
-                     <a href="https://medium.com/@sts_news/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29">“Design Thinking is Kind of Like Syphilis — It’s Contagious and Rots Your Brains”</a>
+<a href="https://medium.com/@sts_news/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29">“Design Thinking is Kind of Like Syphilis — It’s Contagious and Rots Your Brains”</a>
 
 Reading this article was the 3rd on my task list after paying the course enrolment fee and writing my first blog entry here. I simply started with this reading because this article is the first on the summer reading list of the course I'll start in September. I thought it'll be a nice way to dive into my studies. Turned out it was a fantastic choice!
 
@@ -41,5 +35,3 @@ For now, all I know is that I want to get into the world of designers. It won’
 I'm closing this way-too-long post with a fav quote from this article:
 
 <i>“It’s ironic because significant changes in art, technology, science, and all culture starts by building on what has come before, not by throwing it away. In jazz, for instance, Bird, Coltrane, and Herbie Hancock all spent years understanding the tradition — thousands of hours of listening and practice — before making their own musical breakthroughs. The best and deepest thinking always involves a dialectic between us and those who came before us, feeling our way forward together, forever imperfectly, towards truth. This is also why great teaching is always both a subversive and a conservative act, and why one of the foundational liberal arts is called love of wisdom.”</i>
-</body>
-</html>
